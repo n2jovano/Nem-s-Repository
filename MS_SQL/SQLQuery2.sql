@@ -1,0 +1,1 @@
+UPDATE Consultant SET SecondaryRoleID = 4 WHERE ConsultantID = 2
