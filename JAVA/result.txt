@@ -1,0 +1,14 @@
+inflation percentage: 2.5%
+portfolio growth percentage: 6.0%
+ 
+Regular starting age of CPP: 65 years
+ 
+Client: Michael Johnson is 60 years old
+ 
+Client 1's gender is: M
+ 
+Porftfolio Growth: 6.0%
+Porftfolio Growth CPP Age: 65
+ 
+Year End Value: $975100.39
+Final Value: $1087239.69
